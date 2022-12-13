@@ -1,1 +1,4 @@
-print("hello")
+from tkinter import *
+
+window = Tk()
+window.mainlop()
