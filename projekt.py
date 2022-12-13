@@ -1,4 +1,6 @@
 from tkinter import *
 
 window = Tk()
-window.mainlop()
+
+window.geometry("400x400")
+window.mainloop()
