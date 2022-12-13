@@ -13,7 +13,7 @@ label1 = Label(window,
                bg="black",
                fg="white",
                image=photo,
-               compound="top")
+               compound="top" )
 
 label1.pack()
 
